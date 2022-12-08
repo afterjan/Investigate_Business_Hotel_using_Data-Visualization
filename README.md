@@ -5,8 +5,12 @@
 
 It is very important for a company to always analyze its business performance. On this occasion, we will go deeper into the business in the hospitality sector. Our focus is to find out how our customers behave in making hotel bookings, and their relationship to the cancellation rate of hotel bookings. The results of the insights we find will be presented in the form of visualization data to make it easier to understand and more persuasive.
 
-## **Data Preprocessing**
-Before analyzing, here are the steps I did during the data preprocessing stage:
+## **Methods**
+This project requires standard pandas, numpy, matplotlib version 3.6.2, seaborn, sklearn packages. If you want to do the same test, you need to install this package first.
+#### **EDA:**
+Descriptive Statistics
+
+#### **Data Preprocessing:**
 - Handle Null Values
 - Handle Error Values
 - Change Data Type
